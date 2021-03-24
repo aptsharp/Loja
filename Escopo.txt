@@ -1,0 +1,12 @@
+Projeto Asp.Net Core - MVC: 
+
+- Customer(cliente) Controller: Index (retorna um cliente) e List(retorna 200  clientes dinamicamente).
+- Models: 
+   - Customer(clinte): id, name, birthday, address, metodo para calcular idade 
+- Views: Customer/Index, Customer/List
+
+- > entrada de dado
+id
+nome 
+aniversario - pega a data e calcula a idade
+address
